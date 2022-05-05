@@ -58,6 +58,8 @@ docker.errors.DockerException: Install pypiwin32 package to enable npipe:// supp
 Solution : Instead of pip install pypiwin32  Try : conda install -c anaconda pywin32
 ```
 
+## Supporting Images
 
+![](resources/1.jpg)
 
 
