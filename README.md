@@ -60,6 +60,6 @@ Solution : Instead of pip install pypiwin32  Try : conda install -c anaconda pyw
 
 ## Supporting Images
 
-![](resources/1.jpg)
+![](resources/1.png)
 
 
