@@ -63,3 +63,20 @@ Solution : Instead of pip install pypiwin32  Try : conda install -c anaconda pyw
 ![](resources/1.png)
 
 
+![](resources/2.png)
+
+
+![](resources/3.png)
+
+
+![](resources/4.png)
+
+
+
+![](resources/5.png)
+
+
+
+![](resources/6.png)
+
+
