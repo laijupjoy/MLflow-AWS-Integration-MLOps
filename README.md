@@ -1,5 +1,10 @@
 # MLflow-AWS-Integration-MLOps
 
+## Architecture
+
+![](main.png)
+
+
 ## MLFlow provides explicit AWS SageMaker support in its operationalization code.
 ```
 create --prefix ./env python=3.8 -y && conda activate ./env 
